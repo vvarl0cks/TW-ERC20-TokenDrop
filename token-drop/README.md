@@ -4,7 +4,9 @@ In this guide, we will utilize the [**Token Drop**](https://portal.thirdweb.com/
 
 We also utilize the token drop's [claim phases](https://portal.thirdweb.com/pre-built-contracts/token-drop#setting-claim-phases) feature, to release the tokens for a price, and only allow a certain amount to be claimed per wallet.
 
-**Check out the Demo here**: https://token-drop.thirdweb-example.com/
+**Check out the Demo here**: WIP... ⏳    
+
+<a href="https://github.com/vvarl0cks/TW-ERC20-TokenDrop"><img src="https://iili.io/HLyqum7.jpg" alt="HLyqum7.jpg" border="0" /></a>
 
 ## Tools:
 
